@@ -67,12 +67,12 @@ We implemented a chatbot that:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/dd8caaf8-d1ff-499b-9501-c3d7fd1aef26)
-![image](https://github.com/user-attachments/assets/fa4b6a91-a33a-4998-a3ed-a448c12768b9) 
-![image](https://github.com/user-attachments/assets/2a734b1e-0d7c-4f43-b78d-8c2d782c0839)
-![image](https://github.com/user-attachments/assets/7ed97a11-4db2-45f6-b4aa-61a62b7baa91)
-![image](https://github.com/user-attachments/assets/49fd3c28-c58a-4d7b-a1cf-12707036cf4e)
-![image](https://github.com/user-attachments/assets/8927242a-06e8-4018-b7e1-08db4270ee93)
+![image](https://github.com/user-attachments/assets/04a2656a-8400-4268-9d57-fdbd5881e52d) 
+![image](https://github.com/user-attachments/assets/1811a9e4-2f0e-4f67-baa5-dd6b2c6c88f1) 
+![image](https://github.com/user-attachments/assets/e212d8dd-1ec0-454d-baf7-475696c315c0) 
+![image](https://github.com/user-attachments/assets/befb68db-fafe-43d0-b1ca-0a50bff77be9) 
+![image](https://github.com/user-attachments/assets/11b60e2c-67ed-4bde-a1a3-c41f7cc6cdc7) 
+![image](https://github.com/user-attachments/assets/1994aee1-55f8-4807-825e-e8779a8f8f82)
 
 
 ## Usage
@@ -106,7 +106,7 @@ The model was evaluated on a test set from the **HAM10000 dataset**, achieving:
 
 ### Validation Images
 
-![image](https://github.com/user-attachments/assets/a690a95c-d2f7-4232-94e2-3678c1642d97)
+![image](https://github.com/user-attachments/assets/143f9b2a-9f43-420f-a624-4676dde56776)
 
 ## Contribution Guidelines
 
